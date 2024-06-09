@@ -26,12 +26,12 @@ Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
-Requirements - gathering and documenting the user needs and system requirements.
-Design - creating high level and detailed design of software architecture and user interface.
-Implementation - writing code and building the software according to the design specifications.
-Testing - conducting various tests to ensure the software meets quality standards and functional requirements.
-Deployment - releasing the software to users and customers.
-Maintenance - providing ongoing support, updates and enhancements to the software after deployment.
+- Requirements - gathering and documenting the user needs and system requirements.
+- Design - creating high level and detailed design of software architecture and user interface.
+- Implementation - writing code and building the software according to the design specifications.
+- Testing - conducting various tests to ensure the software meets quality standards and functional requirements.
+- Deployment - releasing the software to users and customers.
+- Maintenance - providing ongoing support, updates and enhancements to the software after deployment.
 
 Agile vs. Waterfall Models:
 
@@ -81,10 +81,10 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-Unit testing - testing individual components of the software.
-Intergration testing - testing interactions between different components and subsystems.
-System testing - testing the entire software system as a whole
-Acceptance testing - testing the software against user requirements to ensure it meets user needs.
+- Unit testing - testing individual components of the software.
+- Intergration testing - testing interactions between different components and subsystems.
+- System testing - testing the entire software system as a whole
+- Acceptance testing - testing the software against user requirements to ensure it meets user needs.
 Testing is crucial as it helps to identify and fix defects early in the development process leading to higher quality software ptoducts.
 
 Version Control Systems:
@@ -172,11 +172,14 @@ Ensuring Adherence to Ethical Standards:
 - Be Honest: Be straightforward and truthful while describing goods and services, and inform stakeholders of updates or modifications.
 - Be Accountable: Strive to improve the integrity and reputation of the profession by reporting software issues and other potential ethical issues.
 - Be a Responsible Citizen: Prioritize responsibilities as a good citizen over personal interests and work on projects that are secure, comply with specifications, and can withstand mandatory testing
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
+
 Cite any references or sources you use in your answers.
 
 javatpoint.com
+perplexity ai
 
 Submit your completed assignment by [10th June].
